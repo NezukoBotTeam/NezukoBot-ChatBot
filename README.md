@@ -41,4 +41,4 @@ Sau khi sửa file, vui lòng commit và push lên fork của bạn và dùng t�
 - Không được chứa các link SCAM, SPAM, tự quảng bá bản thân, ...
 - Không được ghi credit của bạn vào ChatBot, chúng tôi sẽ có phần khác để ghi công bạn.
 ## Giấy phép
-Được cung cấp theo giấy phép GPL
+Được cung cấp theo giấy phép Apache-2.0
