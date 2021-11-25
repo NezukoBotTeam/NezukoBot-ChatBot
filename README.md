@@ -9,6 +9,7 @@ npm i node-nlp
 3. Để trích xuất ChatBot, vui lòng xem [src/example/test.js](https://github.com/NezukoBotTeam/NezukoBot-ChatBot/tree/main/src/example)
 ## Cách đóng góp
 Vui lòng fork repo này về GitHub của bạn để cập nhật file model
+
 Các thư mục Intent có sẵn:
 ```
 greeting - Gồm các câu về chào hỏi/xã giao
