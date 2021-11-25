@@ -189,6 +189,15 @@
             ]
         },
         {
+            "intent": "other.ranh",
+            "utterances": [
+                "Rảnh không"
+            ],
+            "answers": [
+                "Đang rất rảnh"
+            ]
+        },
+        {
             "intent": "other.replit",
             "utterances": [
                 "replit"
