@@ -39,6 +39,7 @@ Sau khi sửa file, vui lòng commit và push lên fork của bạn và dùng t�
 ## Lưu ý
 - Viết thường có dấu, không viết hoa chữ đầu câu hỏi (Câu trả lời thì vẫn được)
 - Không được chứa nội dung 18+ (Chửi bậy, các từ ngữ tục tĩu)
+- Đại từ xưng hô vui lòng là Cậu-Tớ (Cậu là user, Tớ là Bot)
 - Không được chứa các link SCAM, SPAM, tự quảng bá bản thân, ...
 - Không được ghi credit của bạn vào ChatBot, chúng tôi sẽ có phần khác để ghi công bạn.
 - Nếu có vấn đề gì, vui lòng đặt câu hỏi ở phần Issues
