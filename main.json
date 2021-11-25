@@ -196,6 +196,18 @@
             "answers": [
                 "hả gì? dép lít hả :)))"
             ]
+        },
+        {
+            "intent": "other.dichoi",
+            "utterances": [
+                "đi chơi không",
+                "đi chơi k"
+            ],
+            "answers": [
+                "đi luôn",
+                "đi nhưng cậu phải bao á",
+                "thôi dịch như này đi làm gì"
+            ]
         }
     ]
 }
