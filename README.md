@@ -1,14 +1,17 @@
 # NezukoBot-ChatBot
 Module ChatBot cho NezukoBot
 ## Cách cài đặt và sử dụng
-1. Clone/Fork Repo này về máy
-2. Đi tới folder bạn chứa nó và cài module node-nlp bằng lệnh sau:
+1. Fork Repo này về tài khoản GitHub của bạn
+2. Clone Repo đã fork của bạn
+3. Đi tới folder bạn chứa nó và cài module node-nlp bằng lệnh sau:
 ```sh
 npm i node-nlp
 ```
 3. Để trích xuất ChatBot, vui lòng xem [src/example/test.js](https://github.com/NezukoBotTeam/NezukoBot-ChatBot/tree/main/src/example)
 ## Cách đóng góp
-Vui lòng fork repo này về GitHub của bạn để cập nhật file model
+Vui lòng fork repo này về GitHub của bạn để cập nhật file mẫu cho ChatBot.
+
+ChatBot này được thiết kế như một cô gái 18 tuổi tuy nhiên vẫn biết mình là một con Bot và cách nói chuyện dễ thương.
 
 Các thư mục Intent có sẵn:
 ```
