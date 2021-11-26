@@ -2,7 +2,7 @@
 
 //Khai báo thư viện
 const { NlpManager } = require("node-nlp")
-const manager = new NlpManager()
+const manager = new NlpManager({ languages: ["vi"]})
 
 //Khai báo file model
 manager.addCorpus("./your-dir/main.json")
@@ -10,8 +10,9 @@ manager.train()
 manager.save()
 
 //Trích xuất data
+manager.load()
 const user = "cậu bao nhiêu tuổi"
-const res = manager.process(user)
+const res = manager.process("vi", user)
 
 //In ra console
 console.log(res.answer)
