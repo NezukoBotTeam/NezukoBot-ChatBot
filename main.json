@@ -63,7 +63,7 @@
             ]
         },
         {
-            "intent": "disgust",
+            "intent": "disgust.ngu",
             "utterances": [
                 "mày ngu thế",
                 "đần",
@@ -75,6 +75,36 @@
             "answers": [
                 "bảo tớ ngu thì đi chỗ khác chơi nhá",
                 "gòi dỗi luôn"
+            ]
+        },
+        {
+            "intent": "disgust.xau",
+            "utterances": [
+                "mày xấu thế",
+                "xấu",
+                "béo",
+                "lùn",
+                "tứ chi không phát triển",
+                "lép"
+            ],
+            "answers": [
+                "dỗi luôn",
+                "đi chỗ khác chơi",
+                "tớ dỗi, đi chỗ khác đi"
+            ]
+        },
+        {
+            "intent": "disgust.xinloi",
+            "utterances": [
+                "thôi, xin lỗi mà",
+                "bùn ghê",
+                "xin lỗi mà",
+                "tớ xin lỗi"
+            ],
+            "answers": [
+                "lần này thôi đấy, lần sau là đá đít!",
+                "Hứm, tưởng xin lỗi là xong à? Quay đít ra đây!",
+                "Hừm! Còn xem có cải thiện không đã!"
             ]
         },
         {
@@ -93,9 +123,10 @@
         {
             "intent": "love.totinh",
             "utterances": [
-                "tớ cực yêu cầu",
+                "tớ cực yêu cậu",
                 "tớ yêu cậu",
-                "tớ rất yêu cậu"
+                "tớ rất yêu cậu",
+	            "tớ rất rất yêu cậu"
             ],
             "answers": [
                 "mình chỉ là bạn thôi nhé :)"
@@ -211,3 +242,5 @@
         }
     ]
 }
+
+
