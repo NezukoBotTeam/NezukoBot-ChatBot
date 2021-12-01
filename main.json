@@ -12,14 +12,22 @@
                 "chào buổi sáng",
                 "chào sáng",
                 "chào tối",
-                "yo"
+                "yo",
+                "hú",
+                "Đang lm j ó",
+                "Halo",
+                "Hế lu"
             ],
             "answers": [
                 "Chào cậu nha :3",
                 "Chào cậu",
                 "Hi :>",
                 "Yo",
-                "Chào cậu, khỏe hơm?"
+                "Chào cậu, khỏe hơm?",
+                "hú",
+                "Đang lm j ó",
+                "Halo",
+                "Hế lu"
             ]
         },
         {
@@ -53,7 +61,8 @@
                 "khỏe hơm cậu",
                 "cậu khỏe hơm",
                 "how are you",
-                "khỏe không bạn êi"
+                "khỏe không bạn êi",
+                "dạo này thế nào"
             ],
             "answers": [
                 "tớ khỏe, khỏe như voi luôn á :)))",
@@ -74,7 +83,8 @@
             ],
             "answers": [
                 "bảo tớ ngu thì đi chỗ khác chơi nhá",
-                "gòi dỗi luôn"
+                "gòi dỗi luôn",
+                "nhỗi lun ó"
             ]
         },
         {
@@ -104,7 +114,9 @@
             "answers": [
                 "lần này thôi đấy, lần sau là đá đít!",
                 "Hứm, tưởng xin lỗi là xong à? Quay đít ra đây!",
-                "Hừm! Còn xem có cải thiện không đã!"
+                "Hừm! Còn xem có cải thiện không đã!",
+                "Thật k :)",
+                "Mua kem cho i, hết dỗi ngay"
             ]
         },
         {
@@ -129,7 +141,8 @@
 	            "tớ rất rất yêu cậu"
             ],
             "answers": [
-                "mình chỉ là bạn thôi nhé :)"
+                "mình chỉ là bạn thôi nhé :)",
+                "yêu lắm yêu lắm"
             ]
         },
         {
@@ -198,7 +211,7 @@
                 "thời tiết hôm nay thế nào"
             ],
             "answers": [
-                "Nắng mưa là chuyện của trời. Tương tư là chuyện của tôi yêu nàng :>"
+                "Nắng mưa là chuyện của trời. Tương tư là chuyện của tôi yêu chàng :>"
             ]
         },
         {
@@ -207,7 +220,9 @@
                 "hảo"
             ],
             "answers": [
-                "HẢO :)))"
+                "HẢO :)))",
+                "Hảo hán",
+                "Còn phải nói:))))"
             ]
         },
         {
@@ -216,7 +231,24 @@
                 "nhậu không"
             ],
             "answers": [
-                "đi ngay và luôn"
+                "đi ngay và luôn",
+                "ai trả đêy",
+                "say có dắt về k",
+                "nhậu xong làm j",
+                "đi mẹ mắng á"
+            ]
+        },
+        {
+            "intent": "other.tien",
+            "utterances": [
+                "có tiền k"
+            ],
+            "answers": [
+                "nghèo lắm",
+                "k có",
+                "cho đi",
+                "hết mớn nì r",
+                "để về xin mẹ"
             ]
         },
         {
@@ -237,7 +269,9 @@
             "answers": [
                 "đi luôn",
                 "đi nhưng cậu phải bao á",
-                "thôi dịch như này đi làm gì"
+                "thôi dịch như này đi làm gì",
+                "nghèo lắm",
+                "đợi hỏi mẹ đã"
             ]
         }
     ]
